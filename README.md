@@ -3,4 +3,6 @@ This repository includes the files for Project No. 1 [add description here]
 
 ## Repo Structure
 The repository includes the following files
-- [name you want the repository link here](Then file name here)
+- [Lab 1](Then file name here)
+-  [Lab 2](Then file name here)
+- [Lab 3](Then file name here)
